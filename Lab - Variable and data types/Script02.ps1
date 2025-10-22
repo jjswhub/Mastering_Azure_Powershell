@@ -1,7 +1,7 @@
 $x=10
 $y=20
 
-$x=10git
+$x=10
 $y=20
 
 'The value of x is' + $x
