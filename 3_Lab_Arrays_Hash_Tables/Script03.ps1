@@ -22,3 +22,16 @@ $CouerseVideos_1
 
 # Hash Tables
 # Key/values - Comments
+
+<# Hash Tables
+Key/Values - Comments #>
+
+$ServerNames=@{
+   Development='Server01'
+   Testing='Server02'
+   Production='Server03'
+}
+
+$ServerNames['Development']
+$ServerNames.Development
+$ServerNames.Add('QA','Server04')
