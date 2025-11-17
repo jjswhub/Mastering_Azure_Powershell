@@ -1,24 +1,24 @@
-$CouerseVideos= 'Introduction','Installation','Variables'
+$CourseVideos= 'Introduction','Installation','Variables'
 
-$CouerseVideos
+$CourseVideos
 
 $CourseNumbers=1,2,3
 $CourseNumbers
 
-$CouerseVideos_1=@(
+$CourseVideos_1=@(
    'Introduction'
    'Installation'
    'Variables'
     
 )
 
-$CouerseVideos_1
+$CourseVideos_1
 
-$CouerseVideos_1[0]
+$CourseVideos_1[0]
 
-$CouerseVideos_1[1]='Configuration'
+$CourseVideos_1[1]='Configuration'
 
-$CouerseVideos_1
+$CourseVideos_1
 
 # Hash Tables
 # Key/values - Comments
