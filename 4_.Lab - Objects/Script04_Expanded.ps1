@@ -1,4 +1,4 @@
-# Objects - Custom Objects - Expanded Examples
+/b# Objects - Custom Objects - Expanded Examples
 
 # Original example from Script04.ps1
 $Course=[PSCustomObject]@{
